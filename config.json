@@ -1,0 +1,10 @@
+{
+  "nanocoder": {
+    "openAICompatible": {
+      "baseUrl": "http://localhost:11434",
+      "apiKey": "your-api-key-here",
+      "models": ["gpt-oss:20b", "deepseek-r1:32b"]
+    },
+    "log_file": "nanocoder/logs/process_log.txt"
+  }
+}
