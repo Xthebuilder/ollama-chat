@@ -34,9 +34,9 @@ def log_error(error_message):
 
 def connect_to_ai(config):
     """Connect to the AI service using the config."""
-    base_url = config["nanocoder"]["openAICompatible"]["baseUrl"]
-    api_key = config["nanocoder"]["openAICompatible"]["apiKey"]
-    models = config["nanocoder"]["openAICompatible"]["models"]
+    base_url = config["ollama-chat"]["openAICompatible"]["baseUrl"]
+    api_key = config["ollama-chat"]["openAICompatible"]["apiKey"]
+    models = config["ollama-chat"]["openAICompatible"]["models"]
 
     # Prepare the headers for API requests
     headers = {}

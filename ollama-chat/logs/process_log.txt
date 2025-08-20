@@ -1,0 +1,4 @@
+Directories created successfully.
+Directories created successfully.
+Model: gpt-oss:20b, Response: Hello! 👋 How can I help you today?
+Model: gpt-oss:20b, Response: It looks like your message got cut off. Could you please let me know what you were asking about? I'm happy to help!
